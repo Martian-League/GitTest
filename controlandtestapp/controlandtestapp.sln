@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "clickcount", "clickcount\clickcount.vcproj", "{34BA4484-6B37-41A7-A2EA-BD4B3A19E27F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testapp", "testapp\testapp.vcproj", "{4CA15170-36C1-4A74-AFAD-8F5B89538A7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34BA4484-6B37-41A7-A2EA-BD4B3A19E27F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34BA4484-6B37-41A7-A2EA-BD4B3A19E27F}.Debug|Win32.Build.0 = Debug|Win32
+		{34BA4484-6B37-41A7-A2EA-BD4B3A19E27F}.Release|Win32.ActiveCfg = Release|Win32
+		{34BA4484-6B37-41A7-A2EA-BD4B3A19E27F}.Release|Win32.Build.0 = Release|Win32
+		{4CA15170-36C1-4A74-AFAD-8F5B89538A7F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4CA15170-36C1-4A74-AFAD-8F5B89538A7F}.Debug|Win32.Build.0 = Debug|Win32
+		{4CA15170-36C1-4A74-AFAD-8F5B89538A7F}.Release|Win32.ActiveCfg = Release|Win32
+		{4CA15170-36C1-4A74-AFAD-8F5B89538A7F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
